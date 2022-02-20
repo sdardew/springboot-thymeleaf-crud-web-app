@@ -22,3 +22,6 @@ If you click the `Update` button, you can update the information. You can delete
 <img src="https://user-images.githubusercontent.com/86591021/154662530-678d7e23-3831-4183-b008-a52fa53343af.png">
 
 This pages is for saving new employees. You can add new employee's information.
+
+## 🌱 Features to add
+- Korean
